@@ -1,0 +1,30 @@
+[
+    {
+        "code": "BTa9jd",
+        "radius": 50,
+        "isActivated": true,
+        "amount": 50,
+        "expiryTime": "2021-02-20T18:28"
+    },
+    {
+        "code": "H80625",
+        "radius": 20,
+        "isActivated": true,
+        "amount": 50,
+        "expiryTime": "2021-02-20T18:28"
+    },
+    {
+        "code": "L2qICe",
+        "radius": 100,
+        "isActivated": true,
+        "amount": 50,
+        "expiryTime": "2021-02-27T17:28"
+    },
+    {
+        "code": "2l0A1H",
+        "radius": 100,
+        "isActivated": false,
+        "amount": 50,
+        "expiryTime": "2021-02-27T17:28"
+    }
+]
